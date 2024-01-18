@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='DistroLab',
-    version='0.1',
+    version='0.2',
     author='Sylvester Kiranga',
     author_email='slynganga59@gmail.com',
     description='A package for Gaussian and Binomial distributions',
