@@ -5,7 +5,10 @@ DistroLab is a Python package for working with Gaussian and Binomial distributio
 
 ## Installation
 To install DistroLab, run the following command:
+
+```commandline
 pip install DistroLab
+```
 
 
 ## Dependencies
@@ -53,4 +56,4 @@ binomial.plot_distribution_pdf()
 
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](license.txt)
